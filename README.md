@@ -1,6 +1,6 @@
 # Java Links
 
-My personal repository of Java links
+My personal Java links bookmark
 
 ## Links
 
